@@ -1,1 +1,3 @@
 # ROTOM
+
+Simple SMS broker
