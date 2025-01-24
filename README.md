@@ -9,3 +9,5 @@ Currently all SMS providers are expensive, for example twillio charges about $0.
 ## Idea
 
 Run ROTOM service in your backend (lightweight rust service). Install ROTOM mobile app and connect it to ROTOM service which is running in your backend. When you send SMS using ROTOM service, the mobile phone will send SMS accordingly.
+
+![plan](https://res.cloudinary.com/dvsipt8rv/image/upload/v1737716493/SMS_-_Broker_pkmoab.png)
